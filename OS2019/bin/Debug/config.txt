@@ -1,0 +1,1 @@
+Provider=SQLNCLI11;Data Source=DESKTOP-U3UEV4Q;Integrated Security=SSPI;Initial Catalog=database

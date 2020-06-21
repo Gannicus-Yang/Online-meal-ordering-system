@@ -1,0 +1,206 @@
+C:\Users\lenovo\Desktop\OS2019\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\lenovo\Desktop\OS2019\OS2019\bin\Debug\OS2019.exe
+C:\Users\lenovo\Desktop\OS2019\OS2019\bin\Debug\OS2019.pdb
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.exe
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.pdb
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\lenovo\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ResigerForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ResigerForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\mscorlib.dll
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\System.Net.Http.dll
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\System.Net.Http.xml
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\normidna.nlp
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\normnfc.nlp
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\normnfd.nlp
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\normnfkc.nlp
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\bin\Debug\normnfkd.nlp
+C:\Users\cnyy\Desktop\OS2019(1)\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.exe
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.pdb
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\bin\Debug\OS2019.exe
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\bin\Debug\OS2019.pdb
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ResigerForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+C:\Users\lenovo\Desktop\OS2019 6.13初版\OS2019\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.ResigerForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+C:\Users\cnyy\Desktop\OS2019\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\mscorlib.dll
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\System.Net.Http.dll
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\System.Net.Http.xml
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\normidna.nlp
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\normnfc.nlp
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\normnfd.nlp
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\normnfkc.nlp
+C:\Users\cnyy\Desktop\OS2019\OS2019\bin\Debug\normnfkd.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\mscorlib.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\System.Net.Http.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\System.Net.Http.xml
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\normidna.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\normnfc.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\normnfd.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\normnfkc.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\bin\Debug\normnfkd.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.ResigerForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\OS2019.pdb
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\mscorlib.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\System.Net.Http.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\System.Net.Http.xml
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\normidna.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\normnfc.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\normnfd.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\normnfkc.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\bin\Debug\normnfkd.nlp
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.LoginForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+C:\Users\cnyy\Desktop\OS2019 - 副本 - 副本\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
+C:\Users\cnyy\Desktop\OS2019 最终版\OS2019\bin\Debug\OS2019.exe.config
+C:\Users\cnyy\Desktop\OS2019 最终版\OS2019\obj\Debug\OS2019.exe
+C:\Users\cnyy\Desktop\OS2019 最终版\OS2019\obj\Debug\OS2019.pdb
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\OS2019.exe.config
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.exe
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.pdb
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\OS2019.exe
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\OS2019.pdb
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\mscorlib.dll
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\System.Net.Http.dll
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\System.Net.Http.xml
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\normidna.nlp
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\normnfc.nlp
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\normnfd.nlp
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\normnfkc.nlp
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\bin\Debug\normnfkd.nlp
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.csprojResolveAssemblyReference.cache
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.AdminManager.AdminForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.AdminManager.InputStoreForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.AdminManager.SearchCustomerForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.AdminManager.SearchTransactionForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.ChangePasswordForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.CheckOrderForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.CustomerForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.OrderingFoodForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.RegisterForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.CustomerManager.UpdateInfoForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.LoginForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.Properties.Resources.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.StoreManager.CheckOrderForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.StoreManager.StoreForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.StoreManager.UpdateInfoForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.StoreManager.UpdateMenuForm.resources
+D:\重要数据\大三下\C#\大作业\OS2019 最终版\OS2019\obj\Debug\OS2019.csproj.GenerateResource.Cache
