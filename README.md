@@ -10,3 +10,5 @@ A simple online ordering platform, through C# programming and database connectio
 2.merchants can modify store information, update, add, delete dish information, query transaction records..etc;
 
 3.platform administrator can add or query merchant information, query customers, query all transaction records..etc;
+
+for more details,see 使用说明.docx
